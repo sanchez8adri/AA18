@@ -1,0 +1,7 @@
+Información sobre:  Alemania
+Nombre:  Alemania
+Población: 83.240.000
+Capital:  Berlin
+Continente:  Europa
+Salario Mínimo:  1,500.00
+Clima:  Frio

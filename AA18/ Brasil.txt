@@ -1,0 +1,7 @@
+Información sobre:  Brasil
+Nombre:  Brasil
+Población: 212.600.000
+Capital:  Brasilia
+Continente:  America del Sur
+Salario Mínimo:  500
+Clima:  Variado
